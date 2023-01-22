@@ -11,7 +11,23 @@
     <div class="grid gap-4 mx-4">
         <div class=" p-3 bg-orange-50 rounded-lg shadow-md">
             <h1 class="text-3xl">Rules</h1>
-            <p class="sans">Put the rules in here</p>
+            <ul class="sans list-disc pl-4">
+            <li>We will divide randomly into 3 teams</li>
+            <li>Each team will have one representative at the front of the room answering questions at any time
+            </li>
+            <li>
+                Every 3 questions, all 3 team representatives swap out with someone else from their team
+            </li>
+            <li>
+                The representative from whichever team answered the last question correctly gets to select the next question.
+            </li>
+            <li>
+                Team representatives answer in the order that the buzzers were pressed until someone gets it right. If nobody gets it right, the general team gets a chance to answer in buzzer order for half points.
+            </li>
+            <li>
+                Please don’t answer any questions if it’s not your turn to do so! 
+            </li>
+            <li>Be kind - some of the questions are hard and it’s hard to be put on the spot. The point is to have fun</li>
         </div>
         <div class="p-3 bg-orange-50 rounded-lg shadow-md">
             <h1 class="text-3xl">Answer of the Night</h1>
