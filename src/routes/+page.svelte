@@ -1,8 +1,3 @@
-<script>
-    import Album from '../components/Album.svelte';
-    let expert = "Expert in a Dying Field";
-</script>
-
 <svelte:head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
